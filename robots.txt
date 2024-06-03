@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://polkoz.github.io/polkoz-polkoz.github.io/sitemap.xml
