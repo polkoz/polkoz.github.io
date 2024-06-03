@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: ANTLR
+date: 2024-06-02
+external_link: https://gitlab.com/syne-lab/antlr-project/-/tree/main
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Parser
+  - Policy
+  - LLM
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+I have created a parser with the help of ANTLR to parse the provided policies.
 
 <!--more-->
