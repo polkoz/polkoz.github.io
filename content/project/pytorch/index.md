@@ -1,7 +1,7 @@
 ---
 title: ANTLR
 date: 2024-06-02
-external_link: https://gitlab.com/syne-lab/antlr-project/-/tree/main
+external_link: https://gitlab.com/syne-lab/antlr-project
 tags:
   - Parser
   - Policy
